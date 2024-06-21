@@ -30,4 +30,4 @@
 </a>
 #### بعد تصوير الباركود قم برفع الملف علي الاسكريبت وقم بالضغط علي زر التنصيب علي هيروكو`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tarboo-bot-md/tarboo-?)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tarboo-bot-md/TARBOO_BOT_MD?)
