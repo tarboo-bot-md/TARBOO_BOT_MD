@@ -1,6 +1,5 @@
 { pkgs }: {
     deps = [
-        pkgs.sudo
         pkgs.nodejs
         pkgs.nodePackages.typescript
         pkgs.ffmpeg
@@ -11,7 +10,6 @@
         pkgs.speedtest-cli
         pkgs.wget
         pkgs.yarn
-        pkgs.pm2
         pkgs.libuuid
     ];
     env = {
